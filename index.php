@@ -5,5 +5,8 @@
 </head>
 <body>
 
+	<button>Add Staff</button>
+	<button>Add Student</button>
+
 </body>
 </html>
